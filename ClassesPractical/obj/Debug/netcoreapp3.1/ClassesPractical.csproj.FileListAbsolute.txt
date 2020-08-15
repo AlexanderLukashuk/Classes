@@ -1,0 +1,10 @@
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/CsharpClasses/homework/ClassesPractical/bin/Debug/netcoreapp3.1/ClassesPractical.deps.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/CsharpClasses/homework/ClassesPractical/bin/Debug/netcoreapp3.1/ClassesPractical.runtimeconfig.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/CsharpClasses/homework/ClassesPractical/bin/Debug/netcoreapp3.1/ClassesPractical.runtimeconfig.dev.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/CsharpClasses/homework/ClassesPractical/bin/Debug/netcoreapp3.1/ClassesPractical.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/CsharpClasses/homework/ClassesPractical/bin/Debug/netcoreapp3.1/ClassesPractical.pdb
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/CsharpClasses/homework/ClassesPractical/obj/Debug/netcoreapp3.1/ClassesPractical.csprojAssemblyReference.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/CsharpClasses/homework/ClassesPractical/obj/Debug/netcoreapp3.1/ClassesPractical.AssemblyInfoInputs.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/CsharpClasses/homework/ClassesPractical/obj/Debug/netcoreapp3.1/ClassesPractical.AssemblyInfo.cs
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/CsharpClasses/homework/ClassesPractical/obj/Debug/netcoreapp3.1/ClassesPractical.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/CsharpClasses/homework/ClassesPractical/obj/Debug/netcoreapp3.1/ClassesPractical.pdb

@@ -1,0 +1,10 @@
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/CsharpClasses/homework/CarPark/bin/Debug/netcoreapp3.1/CarPark.deps.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/CsharpClasses/homework/CarPark/bin/Debug/netcoreapp3.1/CarPark.runtimeconfig.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/CsharpClasses/homework/CarPark/bin/Debug/netcoreapp3.1/CarPark.runtimeconfig.dev.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/CsharpClasses/homework/CarPark/bin/Debug/netcoreapp3.1/CarPark.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/CsharpClasses/homework/CarPark/bin/Debug/netcoreapp3.1/CarPark.pdb
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/CsharpClasses/homework/CarPark/obj/Debug/netcoreapp3.1/CarPark.csprojAssemblyReference.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/CsharpClasses/homework/CarPark/obj/Debug/netcoreapp3.1/CarPark.AssemblyInfoInputs.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/CsharpClasses/homework/CarPark/obj/Debug/netcoreapp3.1/CarPark.AssemblyInfo.cs
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/CsharpClasses/homework/CarPark/obj/Debug/netcoreapp3.1/CarPark.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/CsharpClasses/homework/CarPark/obj/Debug/netcoreapp3.1/CarPark.pdb
